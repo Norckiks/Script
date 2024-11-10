@@ -102,7 +102,7 @@ TextButton.Font = Enum.Font.SourceSans
 TextButton.Text = "Cheese em'"
 TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton.TextScaled = true
-TextButton.TextSize = 14.000i
+TextButton.TextSize = 14.000
 TextButton.TextWrapped = true
 
 TextButton.MouseButton1Click:Connect(function()
